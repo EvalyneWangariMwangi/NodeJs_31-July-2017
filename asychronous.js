@@ -1,5 +1,3 @@
-
-
 var start = new Date();
 
 setTimeout(function (argument) {
